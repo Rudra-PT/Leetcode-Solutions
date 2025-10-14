@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## String
 |  |
