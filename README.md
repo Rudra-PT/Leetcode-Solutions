@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2448-count-number-of-bad-pairs](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [3495-k-th-nearest-obstacle-queries](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3495-k-th-nearest-obstacle-queries) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2448-count-number-of-bad-pairs](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Linked List
+|  |
+| ------- |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
