@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Tree
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
