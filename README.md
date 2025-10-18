@@ -92,17 +92,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Two Pointers
 |  |
 | ------- |
