@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0856-consecutive-numbers-sum](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0856-consecutive-numbers-sum) |
 | [1031-add-to-array-form-of-integer](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1070-convert-to-base-2](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1070-convert-to-base-2) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0231-power-of-two) |
 ## Design
 |  |
 | ------- |
@@ -205,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
