@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1044-find-common-characters](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1044-find-common-characters) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1656-count-good-triplets](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1656-count-good-triplets) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2169-simple-bank-system) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0856-consecutive-numbers-sum](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0856-consecutive-numbers-sum) |
+| [1656-count-good-triplets](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1656-count-good-triplets) |
 | [3221-find-the-peaks](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3221-find-the-peaks) |
 ## Sliding Window
 |  |
