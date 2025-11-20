@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0137-single-number-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1031-add-to-array-form-of-integer](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1044-find-common-characters](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1044-find-common-characters) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
