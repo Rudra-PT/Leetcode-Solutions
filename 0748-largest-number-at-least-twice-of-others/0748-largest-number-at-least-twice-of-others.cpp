@@ -12,12 +12,13 @@ public:
                 idx = i;
             }
         }
+        sort(nums.begin() , nums.end());
+        reverse(nums.begin(), nums.end());
         
-        for(int i = 0; i < n; i++){
-            if(i != idx && maxVal < 2 * nums[i]){
+    
+            if(maxVal < 2 * nums[1]){
                 return -1;
             }
-        }
         
         return idx;
     }
