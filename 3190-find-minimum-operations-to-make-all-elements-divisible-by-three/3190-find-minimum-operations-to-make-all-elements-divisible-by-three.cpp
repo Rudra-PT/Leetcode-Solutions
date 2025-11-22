@@ -1,13 +1,10 @@
+
 class Solution {
 public:
     int minimumOperations(vector<int>& nums) {
-        
-    int n = nums.size();
-    int cnt = 0;
-    for(int i=0  ; i<n ; i++){
-        if(nums[i]%3!=0)
-        cnt++;
-    }
-       return cnt;
+        int cnt = 0;
+        for (const int num: nums)
+            cnt += num % 3 ? 1 : 0;
+        return cnt;
     }
 };
