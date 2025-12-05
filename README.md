@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3221-find-the-peaks](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3221-find-the-peaks) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3495-k-th-nearest-obstacle-queries](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3495-k-th-nearest-obstacle-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Backtracking
