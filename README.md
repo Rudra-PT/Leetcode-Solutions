@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-consecutive-numbers-sum](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0856-consecutive-numbers-sum) |
 | [1031-add-to-array-form-of-integer](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1070-convert-to-base-2](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1070-convert-to-base-2) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
