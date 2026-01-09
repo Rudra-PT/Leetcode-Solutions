@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1656-count-good-triplets) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1929-concatenation-of-array](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2169-simple-bank-system) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1929-concatenation-of-array](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2169-simple-bank-system) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
