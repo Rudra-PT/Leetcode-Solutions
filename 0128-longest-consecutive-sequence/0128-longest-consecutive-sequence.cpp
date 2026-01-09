@@ -2,13 +2,12 @@ class Solution {
 public:
     int longestConsecutive(vector<int>& nums) {
         int n = nums.size();
-        unordered_map<int , int>mpp;
-        for(int i = 0 ; i< n ; i++){
+        unordered_map<int ,int>mpp;
+        for(int i = 0 ;i<n ; i++){
             mpp[nums[i]]++;
         }
-        int maxsez=0;
-
-        for(auto it : mpp) {
+        int maxsize = 0;
+        for(auto it: mpp){
             int num = it.first; 
             if(mpp.find(num - 1) == mpp.end()) {
                 
@@ -20,10 +19,10 @@ public:
                     currentStreak++;
                 }
 
-                maxsez = max(maxsez, currentStreak);
+                maxsize = max(maxsize, currentStreak);
             }
         }
         
-        return maxsez;
+        return maxsize;
     }
 };
