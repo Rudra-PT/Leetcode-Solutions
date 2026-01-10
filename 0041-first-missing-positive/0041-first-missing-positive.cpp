@@ -2,15 +2,15 @@ class Solution {
 public:
     int firstMissingPositive(vector<int>& nums) {
         sort(nums.begin(), nums.end());
-        unordered_set<int> presenceMap;
+        unordered_set<int> mpp;
         for (int x : nums) {
             if (x > 0) {
-                presenceMap.insert(x);
+                mpp.insert(x);
             }
         }
         int target = 1;
         while (true) {
-            if (presenceMap.find(target) == presenceMap.end()) {
+            if (mpp.find(target) == mpp.end()) {
                 return target;
             }
             target++;
