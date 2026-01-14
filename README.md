@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0141-linked-list-cycle](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0189-rotate-array) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0141-linked-list-cycle](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
