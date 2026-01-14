@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [3495-k-th-nearest-obstacle-queries](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3495-k-th-nearest-obstacle-queries) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -366,4 +369,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1975-maximum-matrix-sum](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1975-maximum-matrix-sum) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
