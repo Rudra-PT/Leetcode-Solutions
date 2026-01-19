@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0263-ugly-number) |
 | [0856-consecutive-numbers-sum](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0856-consecutive-numbers-sum) |
 | [1031-add-to-array-form-of-integer](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1070-convert-to-base-2](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1070-convert-to-base-2) |
