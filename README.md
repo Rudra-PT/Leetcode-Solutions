@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2490-circular-sentence](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2490-circular-sentence) |
 | [2678-number-of-senior-citizens](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2678-number-of-senior-citizens) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
