@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1031-add-to-array-form-of-integer](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1044-find-common-characters](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1044-find-common-characters) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1044-find-common-characters](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1044-find-common-characters) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1436-destination-city](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1436-destination-city) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1044-find-common-characters](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1044-find-common-characters) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2448-count-number-of-bad-pairs](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
