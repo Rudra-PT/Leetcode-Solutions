@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1044-find-common-characters](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1044-find-common-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0155-min-stack) |
+| [0844-backspace-string-compare](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Queue
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
