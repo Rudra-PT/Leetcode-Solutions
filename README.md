@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0704-binary-search](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0875-koko-eating-bananas](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0704-binary-search](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0875-koko-eating-bananas](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
