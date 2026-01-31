@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2169-simple-bank-system](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2169-simple-bank-system) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2448-count-number-of-bad-pairs](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
