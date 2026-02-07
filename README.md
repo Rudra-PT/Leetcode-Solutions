@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0704-binary-search](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0875-koko-eating-bananas](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -531,4 +533,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
