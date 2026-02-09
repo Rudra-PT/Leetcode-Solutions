@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+| [0946-validate-stack-sequences](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1031-add-to-array-form-of-integer](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1044-find-common-characters](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1044-find-common-characters) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0946-validate-stack-sequences](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
+| [0946-validate-stack-sequences](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
