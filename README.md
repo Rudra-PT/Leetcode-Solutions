@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+| [1382-balance-a-binary-search-tree](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Tree
 |  |
 | ------- |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0875-koko-eating-bananas](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
+| [1382-balance-a-binary-search-tree](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -393,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1382-balance-a-binary-search-tree](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -510,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1382-balance-a-binary-search-tree](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
