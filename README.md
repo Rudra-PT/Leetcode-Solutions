@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1436-destination-city](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1436-destination-city) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1436-destination-city](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1436-destination-city) |
 | [1446-consecutive-characters](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1446-consecutive-characters) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
