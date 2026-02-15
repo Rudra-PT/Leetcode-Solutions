@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0242-valid-anagram) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0189-rotate-array) |
@@ -508,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0231-power-of-two) |
