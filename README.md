@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0853-car-fleet](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0912-sort-an-array) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0853-car-fleet](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
+| [0853-car-fleet](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0853-car-fleet) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -597,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0853-car-fleet) |
 ## Segment Tree
 |  |
 | ------- |
