@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0872-leaf-similar-trees](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0872-leaf-similar-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0872-leaf-similar-trees](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0872-leaf-similar-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Two Pointers
 |  |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0872-leaf-similar-trees](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0872-leaf-similar-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
