@@ -533,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0645-set-mismatch](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0645-set-mismatch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
