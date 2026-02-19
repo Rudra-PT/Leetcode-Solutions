@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0190-reverse-bits](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0912-sort-an-array) |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0645-set-mismatch](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0645-set-mismatch) |
