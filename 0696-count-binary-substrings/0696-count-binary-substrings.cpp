@@ -1,22 +1,27 @@
+#include <string>
+
+using namespace std;
+
 class Solution {
 public:
     int countBinarySubstrings(string s) {
-        int prevRunLength = 0;
-        int currRunLength = 1;
-        int totalSubstrings = 0;
+        int count = 0;
+        int n = s.length();
+        for (int i = 0; i < n - 1; i++) {
+            if (s[i] != s[i + 1]) {
+                
+                int left = i;
+                int right = i + 1;
         
-        for (int i = 1; i < s.length(); i++) {
-            if (s[i] == s[i - 1]) {
-                currRunLength++;
-            } 
-            else {
-                totalSubstrings += min(prevRunLength, currRunLength);
-                prevRunLength = currRunLength;
-                currRunLength = 1;
+                char leftChar = s[left];
+                char rightChar = s[right];
+                while (left >= 0 && right < n && s[left] == leftChar && s[right] == rightChar) {
+                    count++;  
+                    left--;    
+                    right++;  
+                }
             }
         }
-        totalSubstrings += min(prevRunLength, currRunLength);
-        
-        return totalSubstrings;
+        return count;
     }
 };
