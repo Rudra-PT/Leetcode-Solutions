@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0402-remove-k-digits](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
+| [0402-remove-k-digits](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0682-baseball-game](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
@@ -582,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0402-remove-k-digits](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
@@ -633,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0853-car-fleet) |
 ## Segment Tree
