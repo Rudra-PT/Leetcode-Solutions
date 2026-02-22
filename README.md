@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [1975-maximum-matrix-sum](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1544-make-the-string-great) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
@@ -652,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0853-car-fleet) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Segment Tree
 |  |
 | ------- |
