@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [0456-132-pattern](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0456-132-pattern) |
 | [0645-set-mismatch](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0402-remove-k-digits](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0456-132-pattern) |
 | [0682-baseball-game](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0450-delete-node-in-a-bst](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0450-delete-node-in-a-bst) |
+| [0456-132-pattern](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0456-132-pattern) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0704-binary-search](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0704-binary-search) |
@@ -673,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0853-car-fleet) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -684,4 +688,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
