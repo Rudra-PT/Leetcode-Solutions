@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1436-destination-city](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1436-destination-city) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1656-count-good-triplets](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1656-count-good-triplets) |
@@ -642,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1382-balance-a-binary-search-tree](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -662,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1975-maximum-matrix-sum](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1975-maximum-matrix-sum) |
 ## Merge Sort
 |  |
