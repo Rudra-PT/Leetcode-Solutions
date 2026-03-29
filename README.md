@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2490-circular-sentence](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2490-circular-sentence) |
 | [2678-number-of-senior-citizens](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2678-number-of-senior-citizens) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3174-clear-digits](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3174-clear-digits) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
