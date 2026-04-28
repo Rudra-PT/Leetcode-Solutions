@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [1975-maximum-matrix-sum](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -688,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [1975-maximum-matrix-sum](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1975-maximum-matrix-sum) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
