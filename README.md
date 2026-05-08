@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1656-count-good-triplets](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1656-count-good-triplets) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1672-richest-customer-wealth](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1701-average-waiting-time](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1701-average-waiting-time) |
@@ -711,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1672-richest-customer-wealth](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1975-maximum-matrix-sum](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Merge Sort
