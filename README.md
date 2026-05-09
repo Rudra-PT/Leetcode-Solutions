@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0456-132-pattern) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0450-delete-node-in-a-bst](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0456-132-pattern](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0456-132-pattern) |
@@ -713,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
