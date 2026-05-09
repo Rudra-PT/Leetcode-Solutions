@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2563-count-the-number-of-fair-pairs](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2678-number-of-senior-citizens](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2678-number-of-senior-citizens) |
+| [2706-buy-two-chocolates](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2706-buy-two-chocolates) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2706-buy-two-chocolates](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2706-buy-two-chocolates) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -705,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2706-buy-two-chocolates](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2706-buy-two-chocolates) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Quickselect
 |  |
