@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-path-crossing](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1496-path-crossing) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1980-find-unique-binary-string](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2169-simple-bank-system](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2169-simple-bank-system) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1768-merge-strings-alternately](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1980-find-unique-binary-string](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2448-count-number-of-bad-pairs](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
