@@ -1,23 +1,18 @@
 class Solution {
 public:
-    bool winnerOfGame(string colors) {
-        if (colors.length() <= 2) {
-            return false;
-        }
-
-        int aliceTurn = 0;
-        int bobTurn = 0;
-
-        for (int i = 1; i < colors.length() - 1; i++) {
-            if (colors[i - 1] == colors[i] && colors[i] == colors[i + 1]) {
-                if (colors[i] == 'A') {
-                    aliceTurn++;
-                } else {
-                    bobTurn++;
-                }
-            }
-        }
-
-        return aliceTurn > bobTurn;        
+    bool winnerOfGame(string s) {
+        
+        int a = 0, b = 0;
+        
+        for(int i=1; i<s.size()-1; i++){
+            if(s[i-1] == s[i] && s[i] == s[i+1]){
+                if(s[i] == 'A')
+                    a++;
+                else
+                    b++;
+			}
+        }   
+                    
+        return a>b;
     }
 };
