@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2678-number-of-senior-citizens](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2678-number-of-senior-citizens) |
 | [2706-buy-two-chocolates](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2706-buy-two-chocolates) |
 | [2784-check-if-array-is-good](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2540-minimum-common-value](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -703,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Design
