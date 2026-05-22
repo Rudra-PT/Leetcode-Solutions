@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2540-minimum-common-value](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2299-merge-nodes-in-between-zeros](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2390-removing-stars-from-a-string](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3174-clear-digits](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3174-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3495-k-th-nearest-obstacle-queries](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3495-k-th-nearest-obstacle-queries) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Dynamic Programming
