@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [1975-maximum-matrix-sum](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1980-find-unique-binary-string](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 | [1405-longest-happy-string](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1405-longest-happy-string) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3495-k-th-nearest-obstacle-queries](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3495-k-th-nearest-obstacle-queries) |
@@ -472,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Tree
 |  |
@@ -785,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Union Find
 |  |
 | ------- |
