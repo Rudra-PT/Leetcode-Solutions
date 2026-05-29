@@ -14,7 +14,6 @@ public:
         for(int i = 0 ; i< n; i++){
             nums[i] = helper(nums[i]);
         }
-        sort(nums.begin(),nums.end());
-        return nums[0];
+    return *min_element(nums.begin(), nums.end());
     }
 };
