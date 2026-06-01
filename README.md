@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2169-simple-bank-system](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2169-simple-bank-system) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -803,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2706-buy-two-chocolates](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2706-buy-two-chocolates) |
