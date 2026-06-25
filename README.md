@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1044-find-common-characters](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1044-find-common-characters) |
 | [1046-last-stone-weight](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
+| [1094-car-pooling](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1094-car-pooling) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1094-car-pooling](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1094-car-pooling) |
 | [1340-jump-game-v](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1340-jump-game-v) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
+| [1094-car-pooling](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1094-car-pooling) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1701-average-waiting-time](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1701-average-waiting-time) |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
+| [1094-car-pooling](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1094-car-pooling) |
 | [1405-longest-happy-string](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1405-longest-happy-string) |
 | [1642-furthest-building-you-can-reach](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1642-furthest-building-you-can-reach) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -725,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0724-find-pivot-index](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1094-car-pooling](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1094-car-pooling) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
