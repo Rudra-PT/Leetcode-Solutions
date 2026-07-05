@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1717-maximum-score-from-removing-substrings](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1768-merge-strings-alternately](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1717-maximum-score-from-removing-substrings](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -871,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-furthest-building-you-can-reach](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1642-furthest-building-you-can-reach) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1717-maximum-score-from-removing-substrings](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
