@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0658-find-k-closest-elements](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0704-binary-search](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0704-binary-search) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0658-find-k-closest-elements](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0767-reorganize-string](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0767-reorganize-string) |
 | [0853-car-fleet](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0853-car-fleet) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0658-find-k-closest-elements](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -615,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0456-132-pattern](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0456-132-pattern) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0658-find-k-closest-elements](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0704-binary-search](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -679,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0658-find-k-closest-elements](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0844-backspace-string-compare](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
@@ -775,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0658-find-k-closest-elements](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0713-subarray-product-less-than-k](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0978-longest-turbulent-subarray](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0978-longest-turbulent-subarray) |
