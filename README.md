@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-clear-digits](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3174-clear-digits) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3636-check-balanced-string](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3636-check-balanced-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3713-longest-balanced-substring-i) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2706-buy-two-chocolates) |
 | [2784-check-if-array-is-good](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -966,6 +968,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0912-sort-an-array](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Monotonic Stack
 |  |
 | ------- |
