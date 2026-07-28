@@ -599,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -662,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -723,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
@@ -732,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Linked List
