@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0645-set-mismatch) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0263-ugly-number) |
 | [0441-arranging-coins](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0445-add-two-numbers-ii) |
+| [0486-predict-the-winner](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0486-predict-the-winner](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -897,6 +900,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Greedy
@@ -1019,6 +1023,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Geometry
