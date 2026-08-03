@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1406-stone-game-iii](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1436-destination-city](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1436-destination-city) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1070-convert-to-base-2](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1070-convert-to-base-2) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1406-stone-game-iii](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-longest-turbulent-subarray](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0978-longest-turbulent-subarray) |
 | [1014-best-sightseeing-pair](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1014-best-sightseeing-pair) |
 | [1340-jump-game-v](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1340-jump-game-v) |
+| [1406-stone-game-iii](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1030,6 +1033,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Geometry
 |  |
@@ -1048,4 +1052,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
