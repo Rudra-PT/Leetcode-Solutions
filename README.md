@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3637-trionic-array-i](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3637-trionic-array-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3701-compute-alternating-sum](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3701-compute-alternating-sum) |
 | [3719-longest-balanced-subarray-i](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-clear-digits](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3174-clear-digits) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3701-compute-alternating-sum](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3701-compute-alternating-sum) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Counting
 |  |
