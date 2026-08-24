@@ -470,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1094-car-pooling](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1094-car-pooling) |
+| [1103-distribute-candies-to-people](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1103-distribute-candies-to-people) |
 | [1260-shift-2d-grid](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1031-add-to-array-form-of-integer](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1070-convert-to-base-2](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1070-convert-to-base-2) |
+| [1103-distribute-candies-to-people](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1103-distribute-candies-to-people) |
 | [1140-stone-game-ii](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
