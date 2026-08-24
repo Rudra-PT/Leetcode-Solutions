@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0846-hand-of-straights](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0853-car-fleet) |
 | [0860-lemonade-change](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0767-reorganize-string](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0767-reorganize-string) |
+| [0846-hand-of-straights](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1044-find-common-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0767-reorganize-string](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0767-reorganize-string) |
+| [0846-hand-of-straights](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0912-sort-an-array) |
@@ -999,6 +1002,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0767-reorganize-string) |
+| [0846-hand-of-straights](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
