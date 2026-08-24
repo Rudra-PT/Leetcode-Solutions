@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-number-of-distinct-averages](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2465-number-of-distinct-averages) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2169-simple-bank-system) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-number-of-distinct-averages](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2465-number-of-distinct-averages) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
