@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3636-check-balanced-string](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3636-check-balanced-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3798-largest-even-number](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3798-largest-even-number) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -804,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -880,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Sliding Window
 |  |
