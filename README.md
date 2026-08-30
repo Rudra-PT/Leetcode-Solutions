@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2057-smallest-index-with-equal-value](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2057-smallest-index-with-equal-value) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -1046,6 +1047,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2530-maximal-score-after-applying-k-operations) |
