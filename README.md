@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3778-transform-array-by-parity](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3778-transform-array-by-parity) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -605,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
