@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0071-simplify-path) |
+| [0115-distinct-subsequences](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
@@ -638,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0096-unique-binary-search-trees](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
+| [0115-distinct-subsequences](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0486-predict-the-winner](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
