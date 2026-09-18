@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1436-destination-city) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1496-path-crossing](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1496-path-crossing) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1446-consecutive-characters](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1446-consecutive-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1496-path-crossing](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1496-path-crossing) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1544-make-the-string-great](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1544-make-the-string-great) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -1061,6 +1064,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1405-longest-happy-string](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1405-longest-happy-string) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1642-furthest-building-you-can-reach](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1642-furthest-building-you-can-reach) |
