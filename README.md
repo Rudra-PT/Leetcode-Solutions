@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3174-clear-digits](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3174-clear-digits) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3701-compute-alternating-sum](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3701-compute-alternating-sum) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
