@@ -583,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1103-distribute-candies-to-people](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1103-distribute-candies-to-people) |
 | [1140-stone-game-ii](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1563-stone-game-v](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1563-stone-game-v) |
@@ -1192,6 +1193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Union-Find
 |  |
 | ------- |
