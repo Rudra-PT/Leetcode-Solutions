@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2029-stone-game-ix](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [2057-smallest-index-with-equal-value](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2057-smallest-index-with-equal-value) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
@@ -974,6 +975,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1871-jump-game-vii](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
+| [1991-find-the-middle-index-in-array](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rudra-PT/Leetcode-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
