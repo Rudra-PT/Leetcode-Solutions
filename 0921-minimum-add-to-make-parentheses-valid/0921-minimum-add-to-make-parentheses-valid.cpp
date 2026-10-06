@@ -1,23 +1,24 @@
 class Solution {
 public:
     int minAddToMakeValid(string s) {
-        stack<char> st;
-        int n = s.length();
+        int open_count = 0;  
+        int close_needed = 0;
         
-        for(int i = 0; i < n; i++) {
-            char token = s[i];
-            
-            if (token == '(') {
-                st.push(token);
-            } else {
+        for(char c : s){
+            if(c == '('){
+                open_count++;
+            }
+            else if(c == ')'){
+                if(open_count > 0){
 
-                if (!st.empty() && st.top() == '(') {
-                    st.pop();
+                    open_count--;
                 } else {
-                    st.push(token);
+                    close_needed++;
                 }
             }
         }
-        return st.size();
+        
+        // Total moves is the sum of unmatched open and close brackets
+        return open_count + close_needed;
     }
 };
